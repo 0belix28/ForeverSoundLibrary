@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="FOREVERSOUNDLIBRARY_TOGGLE" header="FOREVERSOUNDLIBRARY" category="ADDONS">
+		ForeverSoundLibrary_Toggle()
+	</Binding>
+</Bindings>
